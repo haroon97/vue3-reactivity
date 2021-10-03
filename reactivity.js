@@ -18,7 +18,7 @@ function trigger() {
   });
 }
 track();
-trigger();
+effect();
 
 console.log(`total is ${total}`);
 
